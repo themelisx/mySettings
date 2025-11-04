@@ -1,0 +1,2 @@
+# mySettings
+Helper for preferences
